@@ -413,7 +413,7 @@ footer{
     header{
         display: flex;
         justify-content: space-between;
-        width: 700px;
+        width: 720px;
         
     }
 
@@ -462,9 +462,10 @@ footer{
     line-height: 30px;
     font-size: 20px;
     color: rgb(20, 20, 20);
+    
 }
 .aside-2 h1{
- 
+ margin-left: 50px;
 }
 
 .mobile h1{
@@ -524,6 +525,7 @@ section h1{
     background-position: center;
     width: 500px;
     height: 150px;
+    margin-top: 20px;
 }
 
 .image-6{
@@ -569,6 +571,15 @@ footer{
     padding-left: 40px;
     width: 160px;
 }
+.inside-text1{
+    color: white;
+    font-family: 'inter';
+    font-size: 24px;
+    font-weight: 100;
+    padding-top: 120px;
+    padding-left: 40px;
+    width: 160px;
+}
 .footer-image{
     padding-left: 70px;
 }
@@ -577,7 +588,10 @@ footer{
     margin-right: 70px;
 }
 .see-all-button{
-
+    margin-left: 200px;
+}
+.footer-4{
+    margin-left: -30px;
 }
 }
 
