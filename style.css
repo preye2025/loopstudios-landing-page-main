@@ -258,8 +258,8 @@ footer{
 
 .main-image {
     padding-top: 50px;
-    padding-left: 20px;
-    width: 400px;
+    padding-left: 10px;
+    width: 250px;
 }
 .aside-2 {
     width: 450px;
@@ -437,7 +437,7 @@ footer{
 .main-image {
     padding-top: 50px;
     padding-left: 20px;
-    width: 400px;
+    width: 350px;
 }
 .aside-2 {
     width: 450px;
@@ -482,37 +482,37 @@ section h1{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    width: 350px;
-    height: 150px;
+    width: 300px;
+    height: 120px;
 }
 
 .image-2{
     background-image: url(images/mobile/image-night-arcade.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 350px;
-    height: 150px;
+    width: 300px;
+    height: 120px;
 }
 .image-3{
     background-image: url(images/mobile/image-soccer-team.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 350px;
-    height: 150px;
+    width: 300px;
+    height: 120px;
 }
 .image-4{
     background-image: url(images/mobile/image-grid.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 350px;
-    height: 150px;
+    width: 300px;
+    height: 120px;
 }
 .image-5{
     background-image: url(images/mobile/image-from-above.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 350px;
-    height: 150px;
+    width: 300px;
+    height: 120px;
     margin-top: 20px;
 }
 
@@ -520,24 +520,24 @@ section h1{
     background-image: url(images/mobile/image-pocket-borealis.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 350px;
-    height: 150px;
+    width: 300px;
+    height: 120px;
 }
 
 .image-7{
     background-image: url(images/mobile/image-curiosity.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 350px;
-    height: 150px;
+    width: 300px;
+    height: 120px;
 }
 
 .image-8{
     background-image: url(images/mobile/image-fisheye.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 350px;
-    height: 150px;
+    width: 300px;
+    height: 120px;
 }
 footer{
     display: flex;
@@ -568,7 +568,7 @@ footer{
   
 }
 .see-all-button{
-
+    
 }
 }
 /* @media screen and (max-width: 620px){
