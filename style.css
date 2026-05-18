@@ -280,7 +280,7 @@ footer{
     color: rgb(105, 107, 109);
 }
 .mobile{
-    margin-left: 300px;
+    
 }
 section h1{
     padding-top: 50px;
@@ -304,7 +304,7 @@ section h1{
     background-repeat: no-repeat;
     background-position: center;
     background-size: contain;
-    width: 350px;
+    width: 200px;
     height: 150px;
 }
 
@@ -358,14 +358,14 @@ section h1{
     background-image: url(images/mobile/image-fisheye.jpg);
     background-repeat: no-repeat;
     background-position: center;
-    width: 350px;
+    width: 250px;
     height: 150px;
 }
 footer{
     display: flex;
     flex-direction: column;
     padding-left: 150px;
-    width: 670px;
+    width: 370px;
 }
 .footer-2{
     display: flex;
@@ -543,7 +543,7 @@ footer{
     display: flex;
     flex-direction: column;
     padding-left: 150px;
-    width: 670px;
+    width: 370px;
 }
 .footer-2{
     display: flex;
